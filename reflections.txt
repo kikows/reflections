@@ -32,6 +32,8 @@ could break something?
     Using version control I can easily track down changes that could result in bugs and in problems in my program so I don't need to worry about making a lot
 	of changes in the filme.
 
+MUDANÁA BITCH!
+
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Writing codes.
