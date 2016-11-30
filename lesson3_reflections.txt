@@ -1,1 +1,28 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+	When you want to colaborate with other people or you want to save your repository online, keeping your files safe in
+	case your computer present problems or you want to work on your projects in different computers.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	Because in your local work you may be testing different aspects you don't want to include in your overall project yet or
+	you don't want to create a new commit in your local project in a random time if someone else make a change at the remote.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	-forks are a sort of a clone of a repository directly from github to your github repositories.
+	-clones are a clone of a repository to your local machine.
+	-branches are different "paths" that you take in your project so that you can first make a feature work before actually 
+		applying it to the master branch.
+	
+	You would fork a project if you want a "copy" of someone else's repository at your github account so that you can make changes
+	on that repository and use them in an open source project. You would clone a project if you want to "download" that repository
+	to a local machine and work there, you can clone your own projects or other's projects, but only cloning them won't give you
+	the possibility of sharing so when you want to copy another's project, you would fork them into your github account and then
+	cloning it to your computer. And finally, you want to branch a project when testing a new future, maybe a new gamemode or 
+	whenever you want to make changes in your project that you want to save in a different "place" than the original branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	By having the last known state of the remote stored locally, you can know what changed since the last time you tried to pull
+	files from the github server, this making it easier to solve conflicts.
