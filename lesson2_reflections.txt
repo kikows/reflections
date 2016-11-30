@@ -33,4 +33,11 @@ the diagram the way we do?
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 
 
+<<<<<<< HEAD
 LINHA ADICIONADA MASTER
+||||||| merged common ancestors
+	
+=======
+	
+LINHA ADICIONADA TESTE03
+>>>>>>> teste03
