@@ -28,9 +28,12 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-	
+	By merging two branches, they become one, combining the files and creating a single log file. We represent in the diagram so that is easy to visualize
+	when we branched and when we merged the files so it is easy to understand what was made.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
+
+	?
 
 
 LINHA ADICIONADA MASTER
