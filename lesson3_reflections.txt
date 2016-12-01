@@ -26,3 +26,18 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	By having the last known state of the remote stored locally, you can know what changed since the last time you tried to pull
 	files from the github server, this making it easier to solve conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	You would have to make changes separatedly and then combine manually the files or use a program that automaticly sync files
+	in the cloud like dropbox, but it would generate a lot of conflict if two persons would work at the same time in a file and
+	it wouldn't have an easy way to solve such conflicts so it would be hard to do so. Using GitHub makes that a lot easier as it
+	has tools to colaborate and solve merges conflicts.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When making changes in master you compromise the master branch, wich is the main one, so it would make the changes "official"
+	and it would be harder to go back if needed. It's better to make a different branch when colaborating or trying new features
+	to test them out or asking to someone check the changes to see if they agree before applying them to the master branch.
+	You would apply changes directly to the master if you are sure of your changes and you don't need someone else's oppinion about
+	it.
